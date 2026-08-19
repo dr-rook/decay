@@ -9,6 +9,7 @@ so i made this little fun project just to learn and become less dependent on oth
 i decided to make this project because i think it would help me learn through experience & education; so instead of using the easy road, i decided to do what these python standard libraries do easily. i'm not a fan of abstraction layers, so i thought i would just do it in python instead.
 
 i did use 2 libraries which i had to use: `sys` and `os`.
+i used another library (i like calling it a module) named `time` to make this easier to understand.
 
 ## the guide
 now i added useful & educational comments to almost each line, so you understand how things work.
